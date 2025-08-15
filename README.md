@@ -1,2 +1,2 @@
 # juego_de_palabras
-un juego corto y v.reve de
+un juego corto y breve de deciciones 
